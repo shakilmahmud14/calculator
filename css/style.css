@@ -1,0 +1,56 @@
+body {
+	background: #F5C8CD;
+}
+.cal-area {
+	width: 360px;
+	height: 95vh;
+	background: #17181A;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+.output {
+	height: 20vh;
+	color: #fff;
+	font-size: 50px;
+	text-align: right;
+	padding-top: 20vh;
+}
+
+.result {
+	height: 20vh;
+	display: ;
+	color: #fff;
+	font-size: 45px;
+	text-align: right;
+	word-wrap: break-word;
+}
+
+button {
+	width: 70px;
+	height: 60px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 50%;
+	font-size: 22px;
+}
+.item0 {
+	height: 50px;
+	width: 150px;
+	border-radius: 19%;
+}
+.color-1 {
+	background: #D4D4D2;
+	border-color: #D4D4D2;
+}
+.color-2 {
+	background: #FF9500;
+	border-color:  #FF9500;
+}
+.color-3 {
+	background: #505050;
+	border-color: #505050;
+	color: #D4D4D2;
+}
